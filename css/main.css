@@ -33,7 +33,7 @@ img.logo {
 }
 
 .appstore {
-    content: url("../img/appstore_black.svg")
+    content: url("../img/appstore_black.svg");
     margin-bottom: 2em;
 }
 
@@ -82,7 +82,7 @@ img.logo {
     }
 
     .appstore {
-        content: url("../img/appstore_white.svg")
+        content: url("../img/appstore_white.svg");
     }
 
     .trademark_footer {
